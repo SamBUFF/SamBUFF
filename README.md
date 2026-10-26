@@ -1,5 +1,15 @@
 # BUFF
 
+## 📢 公告
+
+> **2026-10-26 · 两个 Agent Skill 开源**
+>
+> **[chaoxing-labor-course](https://github.com/SamBUFF/chaoxing-labor-course)** —— 超星学习通 / 泛雅课程自动化：视频按平台允许倍速真播到达标、PPT/PDF 任务点走完阅读流程、章节测验作答、空白小节补访问，让整门课目录全绿。
+>
+> **[yiban-exam](https://github.com/SamBUFF/yiban-exam)** —— 优课 / 易班在线考试作答：依据本地资料（学生手册、法规原文等 docx/pdf）逐题找条款、标注依据行号、全量复验。**只作答，不交卷。**
+>
+> 两个仓库都带了 README、安装说明、依赖清单与 MIT License，可直接自取。
+
 广东工程职业技术学院 2026 级。喜欢把重复的网页操作做成**可复用、可回读验证**的自动化工具 —— 不靠"看起来点成功了"，每一步都用页面真实状态确认。
 
 ## 项目
